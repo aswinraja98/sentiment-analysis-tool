@@ -1,7 +1,9 @@
 # 🚀 Demo Screenshots
 
 ### UI Overview
-![Sentiment Analysis Demo UI](docs/screenshot-ui.png)
+![Sentiment Analysis Demo UI]
+<img width="1460" height="985" alt="Demo" src="https://github.com/user-attachments/assets/e36e4b7b-f00b-42cb-8ad1-2ccefd89d240" />
+
 
 ### Example Prediction
 ![Sentiment Prediction Example](docs/screenshot-prediction.png)
