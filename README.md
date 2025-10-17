@@ -45,7 +45,7 @@ Result: neutral
 
 ## Screenshots
 
-![Demo UI Screenshot](docs/demo-screenshot.png)
+![Demo UI Screenshot]
 <img width="1460" height="985" alt="Demo" src="https://github.com/user-attachments/assets/58d8b952-7374-4460-9166-90f1660c4016" />
 
 ## Portfolio Integration
