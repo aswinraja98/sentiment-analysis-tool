@@ -1,4 +1,4 @@
-
+<img width="1460" height="985" alt="Demo" src="https://github.com/user-attachments/assets/7c74ce84-84ee-44ad-b1ad-bc63a12938ef" />
 # Sentiment Analysis Tool
 
 A demo NLP tool to classify text as positive, negative, or neutral using simple keyword logic (for portfolio/web integration). Includes a working web UI for live sentiment analysis.
@@ -47,6 +47,7 @@ Result: neutral
 ## Screenshots
 
 ![Demo UI Screenshot](docs/demo-screenshot.png)
+<img width="1460" height="985" alt="Demo" src="https://github.com/user-attachments/assets/58d8b952-7374-4460-9166-90f1660c4016" />
 
 ## Portfolio Integration
 
